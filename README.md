@@ -1,6 +1,6 @@
 # Open-Source-Event-Driven-ECG-Dataset
 
-This dataset contains 7-bit Event-Driven ECG dataset simulated from the Physionet MIT-BIH Arrhythmia Database [1], as described in 
+This dataset contains 7-bit Event-Driven ECG data simulated from the Physionet MIT-BIH Arrhythmia Database [1], as described in 
 **M. Saeed et al., "Evaluation of Level-Crossing ADCs for Event-Driven ECG Classification," in IEEE Transactions on Biomedical Circuits and Systems, vol. 15, no. 6, pp. 1129-1139, Dec. 2021, doi: 10.1109/TBCAS.2021.3136206.**
 
 Level-Crossing ADC Parameters:

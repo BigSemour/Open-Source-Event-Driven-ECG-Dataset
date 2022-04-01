@@ -33,7 +33,7 @@ If you use this dataset, kindly cite the following research article:
 
 
 References: 
-[1] https://physionet.org/content/mitdb/1.0.0/
-[2] Y. Zhao, Z. Shang and Y. Lian, "A 13.34 μW Event-Driven Patient-Specific ANN Cardiac Arrhythmia Classifier for Wearable ECG Sensors," in IEEE Transactions on Biomedical Circuits and Systems, vol. 14, no. 2, pp. 186-197, April 2020, doi: 10.1109/TBCAS.2019.2954479.
-[3] https://archive.physionet.org/physiotools/matlab/wfdb-app-matlab/html/rdann.html
-[4] https://archive.physionet.org/physiotools/matlab/wfdb-app-matlab/html/ann2rr.html
+[1] https://physionet.org/content/mitdb/1.0.0/ \\
+[2] Y. Zhao, Z. Shang and Y. Lian, "A 13.34 μW Event-Driven Patient-Specific ANN Cardiac Arrhythmia Classifier for Wearable ECG Sensors," in IEEE Transactions on Biomedical Circuits and Systems, vol. 14, no. 2, pp. 186-197, April 2020, doi: 10.1109/TBCAS.2019.2954479. \\
+[3] https://archive.physionet.org/physiotools/matlab/wfdb-app-matlab/html/rdann.html \\
+[4] https://archive.physionet.org/physiotools/matlab/wfdb-app-matlab/html/ann2rr.html \\

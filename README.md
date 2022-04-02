@@ -26,6 +26,7 @@ For each of the 48 records in the original MIT-BIH dataset (sampled at 360Hz), t
     edECG.cr                contains the compression ratio of ED ECG signal
     edECG.prd               contains the Percentage Root-Mean Squared Difference of the ED ECG signal
     edECG.sdr               contains the Signal-to-Distortion Ratio of the ED ECG Signal
+    edECG.channel           is the channel number of the original dataset
 
 
 If you use this dataset, kindly cite the following research article:
